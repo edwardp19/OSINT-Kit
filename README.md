@@ -4,8 +4,8 @@ This page provides a collection of tools that can assist you in your Open Source
 
 ## OSINT Aggregator Tools
 
-- [Analyst Research Tools](https://analystresearchtools.com/)
 - [DeepFindMe](https://www.deepfind.me/)
+- [Analyst Research Tools](https://analystresearchtools.com/)
 - [DigitalDigging](https://digitaldigging.org/osint/)
 - [Epieos](https://epieos.com/)
 - [IntelTechniques OSINT Tools](https://inteltechniques.com/tools/)
