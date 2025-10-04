@@ -18,17 +18,22 @@ This page provides a collection of tools that can assist you in your Open Source
 - [Spiderfoot](https://github.com/smicallef/spiderfoot)
 - [Spiderfoot HX](https://login.hx.spiderfoot.net/signin?)
 - [Osintly](https://osint.ly/)
+- [Sherlock](https://github.com/sherlock-project/sherlock)
 
 ## Location Tracking
 
 - [Grabify](https://grabify.link/) - Track IP addresses using Grabify IP logger.
 - [IP Logger](https://iplogger.org/) - Log and track IP addresses with the IP Logger URL Shortener.
+- [IP to Geolocation](https://ip2geolocation.com/) - Get Geolocation from IP.
 
 ## Marketplaces
 
 - [Search All Junk](http://searchalljunk.com/)
 - [Search Tempest](https://www.searchtempest.com/)
 - [Claz](https://claz.org/)
+
+## Domain Information
+- [Whois](https://www.whois.com/) - Get Information regarding any Domain
 
 ## Miscellaneous
 
