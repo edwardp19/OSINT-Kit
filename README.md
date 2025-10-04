@@ -3,6 +3,10 @@
 This page provides a collection of tools that can assist you in your Open Source Intelligence (OSINT) investigations. The list includes both free and paid tools, with some offering free trials. I have included tools like Maltego and Spiderfoot because of their useful graphical capabilities. Spiderfoot is available in both free and paid versions.
 
 ## OSINT Aggregator Tools
+![License](https://img.shield.io/github/license/your-username/your-repo-name)
+![Last Commit](https://img.shield.io/github/last-commit//your-username/your-repo-name)
+![Contributions Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen.svg)
+![Stars](https://img.shields.io/github/stars/your-username/your-repo-name.svg)
 
 - [DeepFindMe](https://www.deepfind.me/)
 - [Analyst Research Tools](https://analystresearchtools.com/)
@@ -15,10 +19,13 @@ This page provides a collection of tools that can assist you in your Open Source
 - [OSINT Investigation Assistant](https://lambda.black/osint.html)
 - [OS-Surveillance](https://www.os-surveillance.io/)
 - [Predicta Graph](https://beta.predictagraph.com/)
-- [Spiderfoot](https://github.com/smicallef/spiderfoot)
 - [Spiderfoot HX](https://login.hx.spiderfoot.net/signin?)
 - [Osintly](https://osint.ly/)
 - [Sherlock](https://github.com/sherlock-project/sherlock)
+##  Additional OSINT Tools (2025 Update)
+##### 1. SpiderFoot (automated reconnaissance)
+- **purpose:** Automated OSINT collection and analysis across hundreds of data sources; good for domain/person/ asset profiling and initial triage.
+-**Install (quick):**(https://github.com/smicallef/spiderfoot.git)
 
 ## Location Tracking
 
