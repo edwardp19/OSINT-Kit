@@ -102,14 +102,10 @@
 
 ## Operating Systems
 
-- [GrapheneOS](https://grapheneos.org/) — **(Free)**
-- [Pop!_OS](https://pop.system76.com/) — **(Free)**
-- [Ubuntu](https://ubuntu.com/download/desktop) — **(Free)**
-- [Kali Linux](http://kali.org/get-kali/#kali-platforms) — **(Free)**
-- [GrapheneOS](https://grapheneos.org/) - A secure mobile phone OS.
-- [PopOS](https://pop.system76.com/) - A Linux operating system.
-- [UbuntuOS](https://ubuntu.com/download/desktop) - A popular Linux operating system.
-- [kali Linux](http://kali.org/get-kali/#kali-platforms)- The most advanced penetration testing distribution operating system.
+- [GrapheneOS](https://grapheneos.org/) — **(Free)** - A secure mobile phone OS.
+- [Pop!_OS](https://pop.system76.com/) — **(Free)** - A Linux operating system.
+- [Ubuntu](https://ubuntu.com/download/desktop) — **(Free)** - A popular Linux operating system.
+- [Kali Linux](http://kali.org/get-kali/#kali-platforms) — **(Free)** - The most advanced penetration testing distribution operating system.
 - [Parrot OS](https://www.parrotsec.org/) - Security-focused Linux distro for pentesting and privacy
 - [Tails](https://tails.boum.org/) - Live OS focused on privacy and anonymity
 - [Fedora](https://getfedora.org/) - Reliable Linux distro, suitable for security and development
