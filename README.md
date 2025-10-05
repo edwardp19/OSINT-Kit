@@ -89,6 +89,9 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [Tails](https://tails.boum.org/) - Live OS focused on privacy and anonymity
 - [Fedora](https://getfedora.org/) - Reliable Linux distro, suitable for security and development
 - [Arch Linux](https://archlinux.org/) - Minimal, flexible Linux for custom pentesting and OSINT setups
+- [BlackArch](https://blackarch.org/) - Arch-based penetration testing Linux distribution
+- [Qubes OS](https://www.qubes-os.org/) - Security-focused OS with strong compartmentalization
+- [BackBox](https://www.backbox.org/) - Ubuntu-based pentesting Linux distribution
 
 ## PGP Key Servers
 
