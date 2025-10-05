@@ -74,6 +74,8 @@ This page provides a collection of tools that can assist you in your Open Source
 - [GrapheneOS](https://grapheneos.org/) - A secure mobile phone OS.
 - [PopOS](https://pop.system76.com/) - A Linux operating system.
 - [UbuntuOS](https://ubuntu.com/download/desktop) - A popular Linux operating system.
+- [kali Linux](https://www.kali.org/)- The most advanced
+Penetration Testing Distribution operating system.
 
 ## PGP Key Servers
 
