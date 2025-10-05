@@ -1,41 +1,15 @@
-
-
-
-
-![License](https://img.shield.io/github/license/Buddhsen-tripathi/OSINT - Kit)
-![LastCommit](https://img.shield.io/github/last-commit/Buddhsen-tripathi/OSINT -Kit)
-![Contributions Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen)
-![GithubStars](https://img.shields.io/github/stars/Buddhsen-tripathi/OSINT-Kit? style=social)
-![GithubForks](https://img.shields.io/github/forks/Buddhsen-tripathi/OSINT-Kit?style=social)
-![OpenIssues](https://img.shields.io/github/issues/Buddhsen-tripathi/OSINT-Kit)
-![PullRequest](https://img.shields.io/github/issues-pr/Buddhsen-tripathi/OSINT-Kit)
-![TopLanguage](https://img.shields.io/github/languages/top/Buddhsen-tripathi/OSINT-Kit)
-![RepoSize](https://img.shields.io/github/repo-size/Buddhsen-tripathi/OSINT-Kit)
-![Watchers](https://img.shields.io/github/watchers/Buddhsen-tripathi/OSINT-Kit?style=social)
-
 ## OSINT - Kit
-
-- [DeepFindMe](https://www.deepfind.me/)
-- [Analyst Research Tools](https://analystresearchtools.com/)
-- [DigitalDigging](https://digitaldigging.org/osint/)
-- [Epieos](https://epieos.com/)
-- [IntelTechniques OSINT Tools](https://inteltechniques.com/tools/)
-- [Maltego](https://maltego.com/product-features/)
-- [OSINT Canada](https://www.osintcanada.com/home)
-- [OSINT.Industries](https://www.osint.industries/)
-- [OSINT Investigation Assistant](https://lambda.black/osint.html)
-- [OS-Surveillance](https://www.os-surveillance.io/)
-- [Predicta Graph](https://beta.predictagraph.com/)
-- [Spiderfoot HX](https://login.hx.spiderfoot.net/signin?)
-- [Osintly](https://osint.ly/)
-- [Sherlock](https://github.com/sherlock-project/sherlock)
-
 A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This project helps reasearchers, security, professionals, and hobbyists gather publicly available information from the web efficiently.
 
-##  Additional OSINT Tools (2025 Update)
-##### 1. SpiderFoot (automated reconnaissance)
-- **purpose:** Automated OSINT collection and analysis across hundreds of data sources; good for domain/person/ asset profiling and initial triage.
--**Install (quick):**(https://github.com/smicallef/spiderfoot.git)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![GithubStars](https://img.shields.io/github/stars/Buddhsen-tripathi/OSINT-Kit?style=social)
+![GithubForks](https://img.shields.io/github/forks/Buddhsen-tripathi/OSINT-Kit?style=social)
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-orange.svg)](https://hacktoberfest.com/)
+![OpenIssues](https://img.shields.io/github/issues/Buddhsen-tripathi/OSINT-Kit)
+![PullRequest](https://img.shields.io/github/issues-pr/Buddhsen-tripathi/OSINT-Kit)
+
+## Comprehensive Tools
+
 - [DeepFindMe](https://www.deepfind.me/) — **(Freemium)**
 - [Analyst Research Tools](https://analystresearchtools.com/) — **(Freemium)**
 - [DigitalDigging](https://digitaldigging.org/osint/) — **(Free)**
@@ -104,14 +78,10 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 
 ## Operating Systems
 
-- [GrapheneOS](https://grapheneos.org/) — **(Free)**
-- [Pop!_OS](https://pop.system76.com/) — **(Free)**
-- [Ubuntu](https://ubuntu.com/download/desktop) — **(Free)**
-- [Kali Linux](http://kali.org/get-kali/#kali-platforms) — **(Free)**
 - [GrapheneOS](https://grapheneos.org/) - A secure mobile phone OS.
 - [PopOS](https://pop.system76.com/) - A Linux operating system.
 - [UbuntuOS](https://ubuntu.com/download/desktop) - A popular Linux operating system.
-- [kali Linux](http://kali.org/get-kali/#kali-platforms)- The most advanced penetration testing distribution operating system.
+- [Kali Linux](http://kali.org/get-kali/#kali-platforms)- The most advanced penetration testing distribution operating system.
 - [Parrot OS](https://www.parrotsec.org/) - Security-focused Linux distro for pentesting and privacy
 - [Tails](https://tails.boum.org/) - Live OS focused on privacy and anonymity
 - [Fedora](https://getfedora.org/) - Reliable Linux distro, suitable for security and development
