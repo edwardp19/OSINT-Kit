@@ -11,7 +11,29 @@
 ---
 
 ## OSINT Aggregator Tools
+![License](https://img.shield.io/github/license/your-username/your-repo-name)
+![Last Commit](https://img.shield.io/github/last-commit//your-username/your-repo-name)
+![Contributions Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen.svg)
+![Stars](https://img.shields.io/github/stars/your-username/your-repo-name.svg)
 
+- [DeepFindMe](https://www.deepfind.me/)
+- [Analyst Research Tools](https://analystresearchtools.com/)
+- [DigitalDigging](https://digitaldigging.org/osint/)
+- [Epieos](https://epieos.com/)
+- [IntelTechniques OSINT Tools](https://inteltechniques.com/tools/)
+- [Maltego](https://maltego.com/product-features/)
+- [OSINT Canada](https://www.osintcanada.com/home)
+- [OSINT.Industries](https://www.osint.industries/)
+- [OSINT Investigation Assistant](https://lambda.black/osint.html)
+- [OS-Surveillance](https://www.os-surveillance.io/)
+- [Predicta Graph](https://beta.predictagraph.com/)
+- [Spiderfoot HX](https://login.hx.spiderfoot.net/signin?)
+- [Osintly](https://osint.ly/)
+- [Sherlock](https://github.com/sherlock-project/sherlock)
+##  Additional OSINT Tools (2025 Update)
+##### 1. SpiderFoot (automated reconnaissance)
+- **purpose:** Automated OSINT collection and analysis across hundreds of data sources; good for domain/person/ asset profiling and initial triage.
+-**Install (quick):**(https://github.com/smicallef/spiderfoot.git)
 - [DeepFindMe](https://www.deepfind.me/) — **(Freemium)**
 - [Analyst Research Tools](https://analystresearchtools.com/) — **(Freemium)**
 - [DigitalDigging](https://digitaldigging.org/osint/) — **(Free)**
