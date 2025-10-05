@@ -35,6 +35,9 @@ This page provides a collection of tools that can assist you in your Open Source
 ## Domain Information
 - [Whois](https://www.whois.com/) - Get Information regarding any Domain
 - [Shodan](https://www.shodan.io/) - Search engine for internet-connected devices and services
+- [DNSDumpster](https://dnsdumpster.com/) - Free online tool for DNS and subdomain research
+- [WhoisXML API](https://whoisxmlapi.com/) - Domain, IP, and DNS intelligence APIs
+- [SecurityTrails](https://securitytrails.com/) - Comprehensive domain and DNS intelligence platform
 
 ## Miscellaneous
 
