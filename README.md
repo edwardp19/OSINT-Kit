@@ -77,6 +77,8 @@ This page provides a collection of tools that can assist you in your Open Source
 - [kali Linux](http://kali.org/get-kali/#kali-platforms)- The most advanced penetration testing distribution operating system.
 - [Parrot OS](https://www.parrotsec.org/) - Security-focused Linux distro for pentesting and privacy
 - [Tails](https://tails.boum.org/) - Live OS focused on privacy and anonymity
+- [Fedora](https://getfedora.org/) - Reliable Linux distro, suitable for security and development
+- [Arch Linux](https://archlinux.org/) - Minimal, flexible Linux for custom pentesting and OSINT setups
 
 ## PGP Key Servers
 
