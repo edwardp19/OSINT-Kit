@@ -1,20 +1,19 @@
-# OSINT Kit
 
-> **Note:** Each tool below is labeled with its accessibility type: **(Free)**, **(Freemium)**, or **(Paid)**.  
-> Use these tags to quickly filter tools by cost/accessibility when choosing tools for your OSINT work.
 
-## Legend
-- **(Free)** — fully free/open-source or free to use.
-- **(Freemium)** — offers a free tier or community edition plus paid upgrades.
-- **(Paid)** — commercial software that requires a paid license.
 
----
 
-## OSINT Aggregator Tools
-![License](https://img.shield.io/github/license/your-username/your-repo-name)
-![Last Commit](https://img.shield.io/github/last-commit//your-username/your-repo-name)
-![Contributions Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen.svg)
-![Stars](https://img.shields.io/github/stars/your-username/your-repo-name.svg)
+![License](https://img.shield.io/github/license/Buddhsen-tripathi/OSINT - Kit)
+![LastCommit](https://img.shield.io/github/last-commit/Buddhsen-tripathi/OSINT -Kit)
+![Contributions Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen)
+![GithubStars](https://img.shields.io/github/stars/Buddhsen-tripathi/OSINT-Kit? style=social)
+![GithubForks](https://img.shields.io/github/forks/Buddhsen-tripathi/OSINT-Kit?style=social)
+![OpenIssues](https://img.shields.io/github/issues/Buddhsen-tripathi/OSINT-Kit)
+![PullRequest](https://img.shields.io/github/issues-pr/Buddhsen-tripathi/OSINT-Kit)
+![TopLanguage](https://img.shields.io/github/languages/top/Buddhsen-tripathi/OSINT-Kit)
+![RepoSize](https://img.shields.io/github/repo-size/Buddhsen-tripathi/OSINT-Kit)
+![Watchers](https://img.shields.io/github/watchers/Buddhsen-tripathi/OSINT-Kit?style=social)
+
+## OSINT - Kit
 
 - [DeepFindMe](https://www.deepfind.me/)
 - [Analyst Research Tools](https://analystresearchtools.com/)
@@ -30,6 +29,9 @@
 - [Spiderfoot HX](https://login.hx.spiderfoot.net/signin?)
 - [Osintly](https://osint.ly/)
 - [Sherlock](https://github.com/sherlock-project/sherlock)
+
+A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This project helps reasearchers, security, professionals, and hobbyists gather publicly available information from the web efficiently.
+
 ##  Additional OSINT Tools (2025 Update)
 ##### 1. SpiderFoot (automated reconnaissance)
 - **purpose:** Automated OSINT collection and analysis across hundreds of data sources; good for domain/person/ asset profiling and initial triage.
@@ -142,6 +144,3 @@ Please read our contribution guidelines in **[CONTRIBUTING.md](./CONTRIBUTING.md
 By contributing you agree to follow our code of conduct (see CONTRIBUTING.md).  
 Thanks again — we appreciate your time and expertise!
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
