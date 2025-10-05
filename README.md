@@ -75,6 +75,8 @@ This page provides a collection of tools that can assist you in your Open Source
 - [PopOS](https://pop.system76.com/) - A Linux operating system.
 - [UbuntuOS](https://ubuntu.com/download/desktop) - A popular Linux operating system.
 - [kali Linux](http://kali.org/get-kali/#kali-platforms)- The most advanced penetration testing distribution operating system.
+- [Parrot OS](https://www.parrotsec.org/) - Security-focused Linux distro for pentesting and privacy
+- [Tails](https://tails.boum.org/) - Live OS focused on privacy and anonymity
 
 ## PGP Key Servers
 
