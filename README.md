@@ -1,104 +1,116 @@
 # OSINT Kit
 
-This page provides a collection of tools that can assist you in your Open Source Intelligence (OSINT) investigations. The list includes both free and paid tools, with some offering free trials. I have included tools like Maltego and Spiderfoot because of their useful graphical capabilities. Spiderfoot is available in both free and paid versions.
+> **Note:** Each tool below is labeled with its accessibility type: **(Free)**, **(Freemium)**, or **(Paid)**.  
+> Use these tags to quickly filter tools by cost/accessibility when choosing tools for your OSINT work.
+
+## Legend
+- **(Free)** — fully free/open-source or free to use.
+- **(Freemium)** — offers a free tier or community edition plus paid upgrades.
+- **(Paid)** — commercial software that requires a paid license.
+
+---
 
 ## OSINT Aggregator Tools
 
-- [DeepFindMe](https://www.deepfind.me/)
-- [Analyst Research Tools](https://analystresearchtools.com/)
-- [DigitalDigging](https://digitaldigging.org/osint/)
-- [Epieos](https://epieos.com/)
-- [IntelTechniques OSINT Tools](https://inteltechniques.com/tools/)
-- [Maltego](https://maltego.com/product-features/)
-- [OSINT Canada](https://www.osintcanada.com/home)
-- [OSINT.Industries](https://www.osint.industries/)
-- [OSINT Investigation Assistant](https://lambda.black/osint.html)
-- [OS-Surveillance](https://www.os-surveillance.io/)
-- [Predicta Graph](https://beta.predictagraph.com/)
-- [Spiderfoot](https://github.com/smicallef/spiderfoot)
-- [Spiderfoot HX](https://login.hx.spiderfoot.net/signin?)
-- [Osintly](https://osint.ly/)
-- [Sherlock](https://github.com/sherlock-project/sherlock)
+- [DeepFindMe](https://www.deepfind.me/) — **(Freemium)**
+- [Analyst Research Tools](https://analystresearchtools.com/) — **(Freemium)**
+- [DigitalDigging](https://digitaldigging.org/osint/) — **(Free)**
+- [Epieos](https://epieos.com/) — **(Freemium)**
+- [IntelTechniques OSINT Tools](https://inteltechniques.com/tools/) — **(Freemium)**
+- [Maltego](https://maltego.com/product-features/) — **(Freemium)**
+- [OSINT Canada](https://www.osintcanada.com/home) — **(Free)**
+- [OSINT.Industries](https://www.osint.industries/) — **(Free)**
+- [OSINT Investigation Assistant (lambda.black)](https://lambda.black/osint.html) — **(Free)**
+- [OS-Surveillance](https://www.os-surveillance.io/) — **(Freemium)**
+- [Predicta Graph](https://beta.predictagraph.com/) — **(Freemium)**
+- [Spiderfoot (OSS)](https://github.com/smicallef/spiderfoot) — **(Free)**
+- [Spiderfoot HX (SaaS)](https://login.hx.spiderfoot.net/signin?) — **(Paid)**
+- [Osintly](https://osint.ly/) — **(Free)**
+- [Sherlock](https://github.com/sherlock-project/sherlock) — **(Free)**
 
 ## Location Tracking
 
-- [Grabify](https://grabify.link/) - Track IP addresses using Grabify IP logger.
-- [IP Logger](https://iplogger.org/) - Log and track IP addresses with the IP Logger URL Shortener.
-- [IP to Geolocation](https://ip2geolocation.com/) - Get Geolocation from IP.
+- [Grabify](https://grabify.link/) — **(Free)**
+- [IP Logger](https://iplogger.org/) — **(Free)**
+- [IP to Geolocation (ip2geolocation.com)](https://ip2geolocation.com/) — **(Freemium)**
 
 ## Marketplaces
 
-- [Search All Junk](http://searchalljunk.com/)
-- [Search Tempest](https://www.searchtempest.com/)
-- [Claz](https://claz.org/)
+- [Search All Junk](http://searchalljunk.com/) — **(Free)**
+- [Search Tempest](https://www.searchtempest.com/) — **(Free)**
+- [Claz](https://claz.org/) — **(Free)**
 
 ## Domain Information
-- [Whois](https://www.whois.com/) - Get Information regarding any Domain
+
+- [Whois](https://www.whois.com/) — **(Free)**
 
 ## Miscellaneous
 
-- [AlternativeTo](https://alternativeto.net/) - Find better apps and services suggested by the crowd.
-- [Am I real?](https://seintpl.github.io/AmIReal/) - Check if an image looks like it's from "thispersondoesnotexist.com."
-- [Bouncer](https://github.com/The-OSINT-Newsletter/bouncer) - Extract profile IDs from Facebook, Instagram, Twitter, and TikTok in one click.
-- [BuyBlitz](https://www.cqcore.uk/wp-content/uploads/2024/06/cropped-iStock-1470800989.jpg) - Marketplace with various sellers and products.
-- [Codebeautify](https://codebeautify.org/) - Format code, view JSON, convert hex values, and more.
-- [Cipher 387](https://github.com/cipher387/cheatsheets) - A collection of OSINT cheat sheets.
-- [Cipher 387 APIs](https://github.com/cipher387/API-s-for-OSINT) - APIs for gathering information about phone numbers, addresses, and domains.
-- [CTF Search](https://ctfsearch.hackmap.win/) - Find and explore Capture The Flag solutions and writeups.
-- [CybDetective](https://cybdetective.com/osintmap/) - Worldwide OSINT tools map.
-- [CyberChef](https://gchq.github.io/CyberChef) - A web app for encryption, encoding, compression, and data analysis.
-- [Digital Methods](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - Tools developed by Digital Methods Initiative (DMI).
-- [Dutch OSINT Guy - Keywords Highlighter](https://github.com/Dutchosintguy/keywords-highlight-bookmark/) - Highlight keywords on visited web pages.
-- [Dutch OSINT Guy - OSINT Timeline](https://github.com/Dutchosintguy/OSINT-timeline) - OSINT timeline tool.
-- [Firefox Translation](https://support.mozilla.org/en-US/kb/website-translation) - Full-page offline translation for Firefox.
-- [fs0c131y](https://gist.github.com/fs0c131y/f498b21cba9ee23956fc7d7629262e9d) - Location tracking apps list.
-- [Gang Map](https://www.gangmap.com/) - A map of gang territories and activities.
-- [GIMP](https://www.gimp.org/) - Free image editor for various operating systems.
-- [Google Alerts](https://www.google.com/alerts) - Monitor the web for new content related to your interests.
-- [GoOSINT](https://goosint.com/) - 130 web-enabled OSINT and cybersecurity tools.
-- [Gravy App List](https://docs.google.com/spreadsheets/d/1Ukgd0gIWd9gpV6bOx2pcSHsVO6yIUqbjnlM4ewjO6Cs/edit?gid=1257088277#gid=1257088277) - Location tracking app list.
-- [Greasy Fork](https://greasyfork.org/en/scripts) - Scripts to assist with OSINT.
-- [Hachyx](https://hackyx.io/) - A search engine focused on cybersecurity.
-- [Intel Archives](https://intelligence.streamlit.app/) - Intelligence studies and history.
-- [JDownloader](https://jdownloader.org/home/index) - Free, open-source download management tool.
-- [K2SOsint](https://github.com/K2SOsint/Bookmarklets) - A small collection of OSINT bookmarklets.
-- [Moon OSINT](https://start.me/p/0PYlQd/decoding-smartphone-identifiers) - Tool for decoding smartphone identifiers.
-- [My OSINT Tools](https://tools.myosint.training/) - A selection of OSINT bookmarklets.
-- [Octopii](https://github.com/redhuntlabs/Octopii) - Personally identifiable information (PII) scanner.
-- [Online PNG Tools](https://onlinepngtools.com/#tools) - Online tools for editing PNG images.
-- [OSINT Leaks](https://osintleak.com/) - Multi-purpose OSINT search tool.
-- [Osintracker](https://www.osintracker.com/) - Free app for tracking OSINT investigations.
+- [AlternativeTo](https://alternativeto.net/) — **(Free)**
+- [Am I real? (thispersondoesnotexist check)](https://seintpl.github.io/AmIReal/) — **(Free)**
+- [Bouncer](https://github.com/The-OSINT-Newsletter/bouncer) — **(Free)**
+- [BuyBlitz (image link)](https://www.cqcore.uk/wp-content/uploads/2024/06/cropped-iStock-1470800989.jpg) — **(Free)**
+- [Codebeautify](https://codebeautify.org/) — **(Free)**
+- [Cipher 387 — Cheatsheets](https://github.com/cipher387/cheatsheets) — **(Free)**
+- [Cipher 387 APIs](https://github.com/cipher387/API-s-for-OSINT) — **(Free)**
+- [CTF Search](https://ctfsearch.hackmap.win/) — **(Free)**
+- [CybDetective — OSINT map](https://cybdetective.com/osintmap/) — **(Free)**
+- [CyberChef](https://gchq.github.io/CyberChef) — **(Free)**
+- [Digital Methods — Tool Database](https://wiki.digitalmethods.net/Dmi/ToolDatabase) — **(Free)**
+- [Dutch OSINT Guy - Keywords Highlighter](https://github.com/Dutchosintguy/keywords-highlight-bookmark/) — **(Free)**
+- [Dutch OSINT Guy - OSINT Timeline](https://github.com/Dutchosintguy/OSINT-timeline) — **(Free)**
+- [Firefox Translation (support)](https://support.mozilla.org/en-US/kb/website-translation) — **(Free)**
+- [fs0c131y — Location apps list (gist)](https://gist.github.com/fs0c131y/f498b21cba9ee23956fc7d7629262e9d) — **(Free)**
+- [Gang Map](https://www.gangmap.com/) — **(Free)**
+- [GIMP](https://www.gimp.org/) — **(Free)**
+- [Google Alerts](https://www.google.com/alerts) — **(Free)**
+- [GoOSINT](https://goosint.com/) — **(Free)**
+- [Gravy App List (spreadsheet)](https://docs.google.com/spreadsheets/d/1Ukgd0gIWd9gpV6bOx2pcSHsVO6yIUqbjnlM4ewjO6Cs/edit?gid=1257088277#gid=1257088277) — **(Free)**
+- [Greasy Fork (user scripts)](https://greasyfork.org/en/scripts) — **(Free)**
+- [Hachyx](https://hackyx.io/) — **(Free)**
+- [Intel Archives](https://intelligence.streamlit.app/) — **(Free)**
+- [JDownloader](https://jdownloader.org/home/index) — **(Free)**
+- [K2SOsint — Bookmarklets](https://github.com/K2SOsint/Bookmarklets) — **(Free)**
+- [Moon OSINT — smartphone decoders](https://start.me/p/0PYlQd/decoding-smartphone-identifiers) — **(Free)**
+- [My OSINT Tools](https://tools.myosint.training/) — **(Free)**
+- [Octopii (PII scanner)](https://github.com/redhuntlabs/Octopii) — **(Free)**
+- [Online PNG Tools](https://onlinepngtools.com/#tools) — **(Free)**
+- [OSINT Leaks](https://osintleak.com/) — **(Free)**
+- [Osintracker](https://www.osintracker.com/) — **(Free)**
 
 ## Operating Systems
 
-- [GrapheneOS](https://grapheneos.org/) - A secure mobile phone OS.
-- [PopOS](https://pop.system76.com/) - A Linux operating system.
-- [UbuntuOS](https://ubuntu.com/download/desktop) - A popular Linux operating system.
-- [kali Linux](http://kali.org/get-kali/#kali-platforms)- The most advanced penetration testing distribution operating system.
+- [GrapheneOS](https://grapheneos.org/) — **(Free)**
+- [Pop!_OS](https://pop.system76.com/) — **(Free)**
+- [Ubuntu](https://ubuntu.com/download/desktop) — **(Free)**
+- [Kali Linux](http://kali.org/get-kali/#kali-platforms) — **(Free)**
 
 ## PGP Key Servers
 
-- [Keybase](https://keybase.io/) - Secure messaging and file sharing.
-- [Keys](https://keys.openpgp.org/) - OpenPGP keyserver.
-- [Keyserver](https://keyserver.pgp.com/vkd/GetWelcomeScreen.event) - Global directory keyserver.
-- [Mailvelope](https://keys.mailvelope.com/manage.html) - OpenPGP keyserver.
-- [Mit](https://pgp.mit.edu/) - PGP public key server.
-- [Ubuntu](https://keyserver.ubuntu.com/) - Hockeypuck OpenPGP keyserver.
+- [Keybase](https://keybase.io/) — **(Free)**
+- [Keys (openpgp)](https://keys.openpgp.org/) — **(Free)**
+- [Keyserver (pgp.com)](https://keyserver.pgp.com/vkd/GetWelcomeScreen.event) — **(Free)**
+- [Mailvelope Keys](https://keys.mailvelope.com/manage.html) — **(Free)**
+- [MIT PGP Server](https://pgp.mit.edu/) — **(Free)**
+- [Ubuntu Keyserver](https://keyserver.ubuntu.com/) — **(Free)**
 
 ## Recording & Auditing
 
-- [AnyDesk](https://anydesk.com/en) - Remote access software for personal computers and mobile devices.
-- [Forensic OSINT](https://www.forensicosint.com/) - OSINT web capture software to capture evidence quickly.
-- [Hunchly](https://hunch.ly/) - Auditing and recording software.
-- [Joplin](https://joplinapp.org/) - Note-taking app.
-- [Kazam](https://github.com/henrywoo/kazam) - Screen recording software.
-- [Mindmup](https://mindmup.com/) - Tool for creating mind maps.
-- [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en) - Screenshot and screen recording tool.
-- [Noteapp](https://noteapps.info/) - Encyclopedia of note-taking apps.
+- [AnyDesk](https://anydesk.com/en) — **(Freemium)**
+- [Forensic OSINT (ForensicOSINT.com)](https://www.forensicosint.com/) — **(Freemium)**
+- [Hunchly](https://hunch.ly/) — **(Paid)**
+- [Joplin](https://joplinapp.org/) — **(Free)**
+- [Kazam](https://github.com/henrywoo/kazam) — **(Free)**
+- [Mindmup](https://mindmup.com/) — **(Freemium)**
+- [Nimbus (screenshot & recording)](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en) — **(Freemium)**
+- [Noteapp (directory)](https://noteapps.info/) — **(Free)**
 
 ## Contributing
+Thank you for wanting to contribute to the OSINT Kit — your help makes this project better!  
+Please read our contribution guidelines in **[CONTRIBUTING.md](./CONTRIBUTING.md)** before submitting a pull request.
 
-We welcome contributions to the list of OSINT tools. If you would like to suggest a new tool or make improvements, please fork the repository, make your changes, and submit a pull request. Please ensure your contributions are in line with the purpose of the project: to provide a helpful collection of tools for OSINT enthusiasts.
+By contributing you agree to follow our code of conduct (see CONTRIBUTING.md).  
+Thanks again — we appreciate your time and expertise!
 
 ## License
 
