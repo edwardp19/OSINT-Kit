@@ -1,24 +1,30 @@
-# OSINT Kit
+## OSINT - Kit
+A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This project helps reasearchers, security, professionals, and hobbyists gather publicly available information from the web efficiently.
 
-This page provides a collection of tools that can assist you in your Open Source Intelligence (OSINT) investigations. The list includes both free and paid tools, with some offering free trials. I have included tools like Maltego and Spiderfoot because of their useful graphical capabilities. Spiderfoot is available in both free and paid versions.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![GithubStars](https://img.shields.io/github/stars/Buddhsen-tripathi/OSINT-Kit?style=social)
+![GithubForks](https://img.shields.io/github/forks/Buddhsen-tripathi/OSINT-Kit?style=social)
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-orange.svg)](https://hacktoberfest.com/)
+![OpenIssues](https://img.shields.io/github/issues/Buddhsen-tripathi/OSINT-Kit)
+![PullRequest](https://img.shields.io/github/issues-pr/Buddhsen-tripathi/OSINT-Kit)
 
 ## OSINT Aggregator Tools
 
-- [DeepFindMe](https://www.deepfind.me/)
-- [Analyst Research Tools](https://analystresearchtools.com/)
-- [DigitalDigging](https://digitaldigging.org/osint/)
-- [Epieos](https://epieos.com/)
-- [IntelTechniques OSINT Tools](https://inteltechniques.com/tools/)
-- [Maltego](https://maltego.com/product-features/)
-- [OSINT Canada](https://www.osintcanada.com/home)
-- [OSINT.Industries](https://www.osint.industries/)
-- [OSINT Investigation Assistant](https://lambda.black/osint.html)
-- [OS-Surveillance](https://www.os-surveillance.io/)
-- [Predicta Graph](https://beta.predictagraph.com/)
-- [Spiderfoot](https://github.com/smicallef/spiderfoot)
-- [Spiderfoot HX](https://login.hx.spiderfoot.net/signin?)
-- [Osintly](https://osint.ly/)
-- [Sherlock](https://github.com/sherlock-project/sherlock)
+- [DeepFindMe](https://www.deepfind.me/) — **(Freemium)**
+- [Analyst Research Tools](https://analystresearchtools.com/) — **(Freemium)**
+- [DigitalDigging](https://digitaldigging.org/osint/) — **(Free)**
+- [Epieos](https://epieos.com/) — **(Freemium)**
+- [IntelTechniques OSINT Tools](https://inteltechniques.com/tools/) — **(Freemium)**
+- [Maltego](https://maltego.com/product-features/) — **(Freemium)**
+- [OSINT Canada](https://www.osintcanada.com/home) — **(Free)**
+- [OSINT.Industries](https://www.osint.industries/) — **(Free)**
+- [OSINT Investigation Assistant (lambda.black)](https://lambda.black/osint.html) — **(Free)**
+- [OS-Surveillance](https://www.os-surveillance.io/) — **(Freemium)**
+- [Predicta Graph](https://beta.predictagraph.com/) — **(Freemium)**
+- [Spiderfoot (OSS)](https://github.com/smicallef/spiderfoot) — **(Free)**
+- [Spiderfoot HX (SaaS)](https://login.hx.spiderfoot.net/signin?) — **(Paid)**
+- [Osintly](https://osint.ly/) — **(Free)**
+- [Sherlock](https://github.com/sherlock-project/sherlock) — **(Free)**
 
 ## Location Tracking
 
@@ -78,7 +84,7 @@ This page provides a collection of tools that can assist you in your Open Source
 - [GrapheneOS](https://grapheneos.org/) - A secure mobile phone OS.
 - [PopOS](https://pop.system76.com/) - A Linux operating system.
 - [UbuntuOS](https://ubuntu.com/download/desktop) - A popular Linux operating system.
-- [kali Linux](http://kali.org/get-kali/#kali-platforms)- The most advanced penetration testing distribution operating system.
+- [Kali Linux](http://kali.org/get-kali/#kali-platforms)- The most advanced penetration testing distribution operating system.
 - [Parrot OS](https://www.parrotsec.org/) - Security-focused Linux distro for pentesting and privacy
 - [Tails](https://tails.boum.org/) - Live OS focused on privacy and anonymity
 - [Fedora](https://getfedora.org/) - Reliable Linux distro, suitable for security and development
@@ -108,6 +114,3 @@ This page provides a collection of tools that can assist you in your Open Source
 
 We welcome contributions to the list of OSINT tools. If you would like to suggest a new tool or make improvements, please fork the repository, make your changes, and submit a pull request. Please ensure your contributions are in line with the purpose of the project: to provide a helpful collection of tools for OSINT enthusiasts.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
