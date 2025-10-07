@@ -44,6 +44,9 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [DNSDumpster](https://dnsdumpster.com/) - Free online tool for DNS and subdomain research
 - [WhoisXML API](https://whoisxmlapi.com/) - Domain, IP, and DNS intelligence APIs
 - [SecurityTrails](https://securitytrails.com/) - Comprehensive domain and DNS intelligence platform
+- [ViewDNS](https://viewdns.info/) - Multi-purpose domain and DNS lookup tool
+- [Censys](https://search.censys.io/) - Search engine for internet-connected hosts and domains
+- [Netcraft](https://www.netcraft.com/) - Domain and phishing intelligence platform
 
 ## Miscellaneous
 
