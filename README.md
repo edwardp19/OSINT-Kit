@@ -79,6 +79,14 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [OSINT Leaks](https://osintleak.com/) - Multi-purpose OSINT search tool.
 - [Osintracker](https://www.osintracker.com/) - Free app for tracking OSINT investigations.
 
+## Image / Video / Media Analysis
+
+- [ExifTool](https://exiftool.org/) - **(Free)** - Metadata extractor for images and videos.  
+- [InVID Verification Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) - **(Free)** - Browser plugin to verify and analyze videos, widely used by journalists.  
+- [TinEye](https://tineye.com/) - **(Freemium)** - Reverse image search engine for identifying image origins and duplicates.  
+- [Yandex Images](https://yandex.com/images/) - **(Free)** - Reverse image search tool with strong facial and contextual matching capabilities.  
+- [Forensically](https://29a.ch/photo-forensics/) - **(Free)** - Web-based tool to detect image manipulations and view metadata.
+
 ## Operating Systems
 
 - [GrapheneOS](https://grapheneos.org/) - A secure mobile phone OS.
