@@ -72,6 +72,7 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [Gravy App List](https://docs.google.com/spreadsheets/d/1Ukgd0gIWd9gpV6bOx2pcSHsVO6yIUqbjnlM4ewjO6Cs/edit?gid=1257088277#gid=1257088277) - Location tracking app list.
 - [Greasy Fork](https://greasyfork.org/en/scripts) - Scripts to assist with OSINT.
 - [Hachyx](https://hackyx.io/) - A search engine focused on cybersecurity.
+- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime and infostealer intelligence toolset
 - [Intel Archives](https://intelligence.streamlit.app/) - Intelligence studies and history.
 - [JDownloader](https://jdownloader.org/home/index) - Free, open-source download management tool.
 - [K2SOsint](https://github.com/K2SOsint/Bookmarklets) - A small collection of OSINT bookmarklets.
