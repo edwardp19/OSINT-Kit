@@ -91,6 +91,12 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [Yandex Images](https://yandex.com/images/) - **(Free)** - Reverse image search tool with strong facial and contextual matching capabilities.  
 - [Forensically](https://29a.ch/photo-forensics/) - **(Free)** - Web-based tool to detect image manipulations and view metadata.
 
+## 💾 Data Breach & Leak Search
+
+- [**Have I Been Pwned?**](https://haveibeenpwned.com/) — Check if your email or password has been leaked in known data breaches. *(Free)*  
+- [**Dehashed**](https://www.dehashed.com/) — Search compromised credentials and leaked databases. *(Paid)*  
+- [**LeakCheck**](https://leakcheck.io/) — Search across dark web data dumps and breach records. *(Freemium)*  
+
 ## Operating Systems
 
 - [GrapheneOS](https://grapheneos.org/) - A secure mobile phone OS.
