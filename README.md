@@ -8,6 +8,22 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 ![OpenIssues](https://img.shields.io/github/issues/Buddhsen-tripathi/OSINT-Kit)
 ![PullRequest](https://img.shields.io/github/issues-pr/Buddhsen-tripathi/OSINT-Kit)
 
+## 📚 Table of Contents
+- [About](#osint---kit)
+- [OSINT Aggregator Tools](#osint-aggregator-tools)
+- [Location Tracking](#location-tracking)
+- [Marketplaces](#marketplaces)
+- [Domain Information](#domain-information)
+- [Miscellaneous](#miscellaneous)
+- [Image / Video / Media Analysis](#image--video--media-analysis)
+- [Data Breach & Leak Search](#data-breach--leak-search)
+- [Operating Systems](#operating-systems)
+- [PGP Key Servers](#pgp-key-servers)
+- [OSINT APIs](#osint-apis)
+- [Recording & Auditing](#recording--auditing)
+- [Learning Resources](#-learning-resources)
+- [Contributing](#contributing)
+
 ## OSINT Aggregator Tools
 
 - [DeepFindMe](https://www.deepfind.me/) — **(Freemium)**
