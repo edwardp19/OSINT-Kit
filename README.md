@@ -9,7 +9,6 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 ![PullRequest](https://img.shields.io/github/issues-pr/Buddhsen-tripathi/OSINT-Kit)
 
 ## 📚 Table of Contents
-- [About](#osint---kit)
 - [OSINT Aggregator Tools](#osint-aggregator-tools)
 - [Location Tracking](#location-tracking)
 - [Marketplaces](#marketplaces)
